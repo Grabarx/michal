@@ -5,3 +5,5 @@ Dzien dobry!!!!
 To jest druga wersja pliku.
 
 NIC NIE ZOSTALO TU ZMIENNIONE!
+
+fatal error
